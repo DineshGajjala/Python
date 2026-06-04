@@ -1,0 +1,11 @@
+list=["dinesh",2,9.2]
+print(list)
+print(list[2])
+print(list[-2])
+print(list[0:2])
+list.append("mango")
+print(list)
+list.insert(-1,"red")
+print(list)
+list.remove("red")
+print(list)
